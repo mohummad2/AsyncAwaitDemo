@@ -1,0 +1,6 @@
+1- In class B, attempting to declare a constant object of type A is not allowed in C#.
+
+2- Trying to set properties of an object 'a' of class A directly within the constructor of class B is problematic because we haven't created an instance of class A. 
+	As a result, 'a' is null, and you cannot modify properties on a null object.
+
+3- In the Console.WriteLine statement, using '%d' as a format specifier is incorrect for integers in C#. The correct format specifier for integers in C# is '{0}'.

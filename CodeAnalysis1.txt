@@ -1,0 +1,4 @@
+1- When you call d.speak(0);, the C# compiler binds this call to the speak(int x) method declared in the base class Animal. This is because at compile-time, 
+the compiler looks at the reference type (Animal) and chooses the most appropriate method based on the reference type.
+
+2- Since the reference type Animal only knows about the speak(int x) method, the call to d.speak(0) resolves to the speak(int x) method, and it returns "silence

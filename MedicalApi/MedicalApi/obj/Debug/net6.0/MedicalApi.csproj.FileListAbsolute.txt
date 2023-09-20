@@ -1,0 +1,96 @@
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\appsettings.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.exe
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.deps.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.runtimeconfig.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.pdb
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.AssemblyReference.cache
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.AssemblyInfoInputs.cache
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.AssemblyInfo.cs
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.CoreCompileInputs.cache
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.MedicalApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.build.MedicalApi.props
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MedicalApi.props
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MedicalApi.props
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\scopedcss\bundle\MedicalApi.styles.css
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.CopyComplete
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\refint\MedicalApi.dll
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.pdb
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.genruntimeconfig.cache
+E:\Ammad Malik\Test\MedicalApi\MedicalApi\obj\Debug\net6.0\ref\MedicalApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.exe
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.deps.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.runtimeconfig.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.pdb
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.AssemblyInfo.cs
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.MedicalApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.build.MedicalApi.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MedicalApi.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MedicalApi.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\scopedcss\bundle\MedicalApi.styles.css
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.CopyComplete
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\refint\MedicalApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.pdb
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.genruntimeconfig.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\ref\MedicalApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\appsettings.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.exe
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.deps.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.runtimeconfig.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\MedicalApi.pdb
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.AssemblyReference.cache
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.AssemblyInfoInputs.cache
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.AssemblyInfo.cs
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.CoreCompileInputs.cache
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.MedicalApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.build.MedicalApi.props
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.MedicalApi.props
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.MedicalApi.props
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\scopedcss\bundle\MedicalApi.styles.css
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.csproj.CopyComplete
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\refint\MedicalApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.pdb
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\MedicalApi.genruntimeconfig.cache
+E:\Ammad Malik\AsyncAwaitDemo\MedicalApi\MedicalApi\obj\Debug\net6.0\ref\MedicalApi.dll

@@ -1,0 +1,118 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+            <h1>Welcome</h1>
+            <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <form id="personForm">
+                <h2>Add Data</h2>
+                <div class="form-group">
+                    <input type="text" id="personName" class="form-control" placeholder="Name">
+                </div>
+                <div class="form-group">
+                    <input type="number" id="personAge" class="form-control" placeholder="Age" oninput="this.value = this.value.replace(/[^0-9]/g, '');">
+                </div>
+
+                <div class="form-group">
+                    <input type="text" id="patientName" class="form-control" placeholder="patientName">
+                </div>
+                <div class="form-group">
+                    <input type="text" id="diagnosis" class="form-control" placeholder="Diagnosis">
+                </div>
+                <div class="form-group">
+                    <input type="text" id="treatment" class="form-control" placeholder="Treatment">
+                </div>
+                <button type="button" id="addPersonButton" onclick="addData()" class="btn btn-success mt-2">Add Person</button>
+            </form>
+        </div>
+    </div>
+
+    <div class="row mt-4">
+        <div class="col-md-12">
+            <div id="personsData">
+                <h2>Persons Data</h2>
+                <table class="table table-bordered">
+                    <thead>
+                        <tr>
+                            <th>ID</th>
+                            <th>Name</th>
+                            <th>Age</th>
+                            <th>Patient Name</th>
+                            <th>Diagnosis</th>
+                            <th>Treatment</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+<script>
+    function displayPersonsData(data) {
+        var tableBody = $('#personsData table tbody');
+        tableBody.empty();
+        $.each(data, function (index, person) {
+            tableBody.append('<tr><td>' + person.id + '</td><td>' + person.name + '</td><td>' + person.age + '</td><td>' + person.patientName + '</td><td>' + person.diagnosis + '</td><td>' + person.treatment + '</td></tr>');
+        });
+    }
+
+    function displayMedicalRecordsData(data) {
+        var tableBody = $('#medicalRecordsData table tbody');
+        tableBody.empty();
+        $.each(data, function (index, record) {
+            tableBody.append('<tr><td>' + record.id + '</td><td>' + record.patientName + '</td><td>' + record.diagnosis + '</td><td>' + record.treatment + '</td></tr>');
+        });
+    }
+
+    function getData() {
+
+        $.ajax({
+            url: '/api/Person/GetAll',
+            type: 'GET',
+            dataType: 'json',
+            success: function (data) {
+                displayPersonsData(data);
+            },
+            error: function (error) {
+                console.error(error);
+            }
+        });
+    }
+
+    function addData() {
+        var personName = $('#personName').val();
+        var personAge = $('#personAge').val();
+        var patientName = $('#patientName').val();
+        var diagnosis = $('#diagnosis').val();
+        var treatment = $('#treatment').val();
+
+        $.ajax({
+            url: '/api/Person/CreatePerson',
+            type: 'POST',
+            dataType: 'json',
+            data: JSON.stringify({ name: personName, age: personAge, patientName: patientName, diagnosis: diagnosis, treatment: treatment }),
+            contentType: 'application/json',
+            success: function (data) {
+                console.log(data);
+                getData();
+                $('#personForm')[0].reset();
+            },
+            error: function (error) {
+                console.error(error);
+            }
+        });
+    }
+
+    getData();
+</script>

@@ -1,0 +1,96 @@
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\appsettings.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.exe
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.deps.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.runtimeconfig.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.pdb
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.AssemblyReference.cache
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.AssemblyInfoInputs.cache
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.AssemblyInfo.cs
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.CoreCompileInputs.cache
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.PersonApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonApi.props
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonApi.props
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonApi.props
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\scopedcss\bundle\PersonApi.styles.css
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.CopyComplete
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\refint\PersonApi.dll
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.pdb
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.genruntimeconfig.cache
+E:\Ammad Malik\Test\PersonApi\PersonApi\obj\Debug\net6.0\ref\PersonApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.exe
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.deps.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.runtimeconfig.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.pdb
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.AssemblyInfo.cs
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.PersonApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonApi.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonApi.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonApi.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\scopedcss\bundle\PersonApi.styles.css
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.CopyComplete
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\refint\PersonApi.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.pdb
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.genruntimeconfig.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\ref\PersonApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\appsettings.Development.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\appsettings.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.exe
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.deps.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.runtimeconfig.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\PersonApi.pdb
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.AssemblyReference.cache
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.AssemblyInfoInputs.cache
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.AssemblyInfo.cs
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.CoreCompileInputs.cache
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.PersonApi.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.build.PersonApi.props
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.PersonApi.props
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.PersonApi.props
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\scopedcss\bundle\PersonApi.styles.css
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.csproj.CopyComplete
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\refint\PersonApi.dll
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.pdb
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\PersonApi.genruntimeconfig.cache
+E:\Ammad Malik\AsyncAwaitDemo\PersonApi\PersonApi\obj\Debug\net6.0\ref\PersonApi.dll

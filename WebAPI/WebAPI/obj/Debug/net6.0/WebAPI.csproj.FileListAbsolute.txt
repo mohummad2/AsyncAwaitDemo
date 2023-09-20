@@ -1,0 +1,99 @@
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.staticwebassets.runtime.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Ammad Malik\Test\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.RazorAssemblyInfo.cache
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.RazorAssemblyInfo.cs
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\projectbundle\WebAPI.bundle.scp.css
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Ammad Malik\Test\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.staticwebassets.runtime.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.RazorAssemblyInfo.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.RazorAssemblyInfo.cs
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\projectbundle\WebAPI.bundle.scp.css
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+C:\Users\hp\Downloads\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.Development.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\appsettings.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.staticwebassets.runtime.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.exe
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.deps.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.runtimeconfig.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.dll
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\WebAPI.pdb
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.AssemblyReference.cache
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfoInputs.cache
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.AssemblyInfo.cs
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CoreCompileInputs.cache
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.RazorAssemblyInfo.cache
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.RazorAssemblyInfo.cs
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.build.WebAPI.props
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebAPI.props
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebAPI.props
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.build.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\staticwebassets.development.json
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\bundle\WebAPI.styles.css
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\scopedcss\projectbundle\WebAPI.bundle.scp.css
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.csproj.CopyComplete
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.dll
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\refint\WebAPI.dll
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.pdb
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\WebAPI.genruntimeconfig.cache
+E:\Ammad Malik\AsyncAwaitDemo\WebAPI\WebAPI\obj\Debug\net6.0\ref\WebAPI.dll
